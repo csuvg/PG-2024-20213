@@ -25,7 +25,7 @@ Sigue estos pasos detallados para configurar y lanzar la aplicación:
 ### Clonar el repositorio:
 ```
 git clone https://github.com/Paola-Contreras/PG-2024-20213.git
-cd <nombre-del-repositorio>
+cd PG-2024-20213
 ```
 
 ### Instalar las dependencias:
