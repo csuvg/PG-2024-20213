@@ -46,11 +46,11 @@ La aplicación permite a las clínicas almacenar y administrar información de m
   5. **Comandos de Pruebas**
 
   
-    - Verificar estilo de código con ESLint:
+      - Verificar estilo de código con ESLint:
       ```bash
       npm run lint
       ```
-    - Ejecutar pruebas unitarias:
+      - Ejecutar pruebas unitarias:
       ```bash
       npm run test:unit
       ```
@@ -59,9 +59,9 @@ La aplicación permite a las clínicas almacenar y administrar información de m
 
 Demostración visual del proyecto está incluida en la carpeta /demo/. Para verla haga click en:
 
-[Demo del Proyecto](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/demo)
+[Demo del Proyecto](https://github.com/csuvg/PG-2024-20213/tree/main/demo)
 
 ## 4. Informe Final
 El informe final del proyecto de graduación se encuentra en la carpeta /docs/ del repositorio. Para acceder a él haga click en:
 
-[Trabajo escrito](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/docs)
+[Trabajo escrito](https://github.com/csuvg/PG-2024-20213/tree/main/docs)
