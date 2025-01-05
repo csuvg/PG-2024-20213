@@ -17,9 +17,10 @@ Seguridad de los datos: Roles de acceso que garantizan la confidencialidad, perm
 ## Comandos para Instalar el Proyecto
 Sigue estos pasos detallados para configurar y lanzar la aplicación:
 ### Clonar el repositorio:
-
+```
 git clone <URL-del-repositorio>
 cd <nombre-del-repositorio>
+```
 
 ### Instalar las dependencias:
 Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
