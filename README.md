@@ -23,42 +23,39 @@ Seguridad de los datos: Roles de acceso que garantizan la confidencialidad, perm
 
 
 ### Comandos para Instalar el Proyecto
-  1. Clonar el repositorio:
+  **1. Clonar el repositorio:**
   ```
   git clone https://github.com/Paola-Contreras/PG-2024-20213.git
   cd PG-2024-20213
   ```
   
-  2. Acceder a la carpeta src:
+  **2. Acceder a la carpeta src:**
   ```
   cd src
   ```
   
-  3. Instalar las dependencias:
+  **3. Instalar las dependencias:**
   ```
   npm install
   ```
   
-  4. Ejecutar la aplicación:
+  **4. Ejecutar la aplicación:**
   ```
   npm run serve
   ```
   
-  5. Comandos de Pruebas
-  Para realizar pruebas de calidad y funcionamiento, ejecuta los siguientes comandos:
-  
-  - Verificar estilo de código con ESLint:
-  ```
-  npm run lint
-  ```
-  
-  - Ejecutar pruebas unitarias:
-  ```
-  npm run test:unit
-  ```
+  **5. Comandos de Pruebas**
+    - Verificar estilo de código con ESLint:
+    ```
+    npm run lint
+    ```
+    - Ejecutar pruebas unitarias:
+    ```
+    npm run test:unit
+    ```
 
-## Demostración visual del proyecto
+## 3. Demostración visual del proyecto
 [Demo del Proyecto](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/demo)
 
-## Informe Final
+## 4. Informe Final
 [Trabajo escrito](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/docs)
