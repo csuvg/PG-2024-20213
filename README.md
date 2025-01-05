@@ -46,11 +46,11 @@ La aplicación permite a las clínicas almacenar y administrar información de m
   5. **Comandos de Pruebas**
 
   
-   - Verificar estilo de código con ESLint:
+    - Verificar estilo de código con ESLint:
       ```bash
       npm run lint
       ```
-   - Ejecutar pruebas unitarias:
+    - Ejecutar pruebas unitarias:
       ```bash
       npm run test:unit
       ```
