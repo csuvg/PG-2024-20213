@@ -24,7 +24,7 @@ Seguridad de los datos: Roles de acceso que garantizan la confidencialidad, perm
 Sigue estos pasos detallados para configurar y lanzar la aplicación:
 ### Clonar el repositorio:
 ```
-git clone <URL-del-repositorio>
+git clone https://github.com/Paola-Contreras/PG-2024-20213.git
 cd <nombre-del-repositorio>
 ```
 
