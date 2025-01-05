@@ -28,6 +28,11 @@ git clone https://github.com/Paola-Contreras/PG-2024-20213.git
 cd PG-2024-20213
 ```
 
+### Acceder a la carpeta src:
+```
+cd src
+```
+
 ### Instalar las dependencias:
 Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
 
@@ -54,5 +59,6 @@ npm run test:unit
 ```
 
 ### Demostración visual del proyecto
+[Demo del Proyecto](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/demo)
 
 ### Informe Final
