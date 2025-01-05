@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+npm run test:unit || { echo 'Tests fallaron. Revisa los errores antes de hacer un push.'; exit 1; }
