@@ -58,7 +58,8 @@ npm run lint
 npm run test:unit
 ```
 
-### Demostración visual del proyecto
+## Demostración visual del proyecto
 [Demo del Proyecto](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/demo)
 
-### Informe Final
+## Informe Final
+[Trabajo escrito](https://github.com/Paola-Contreras/PG-2024-20213/tree/main/docs)
